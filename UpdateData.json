@@ -1,0 +1,8 @@
+{
+  "CurrentVersion": null,
+  "UpdateType": 1,
+  "UpdateStyle": 2,
+  "UpdateNotice": 1,
+  "HostServerURL": "http://192.168.11.111/LocalCDN",
+  "FallbackHostServerURL": "http://192.168.11.111/LocalCDN"
+}
